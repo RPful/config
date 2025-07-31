@@ -10,7 +10,7 @@
       "pages":1,
       "results":[
          {
-            "name":"VIVO PRE 1",
+            "name":"VIVO PRE ",
             "config_v2ray":"",
             "server_hostname":"pre.megassh.shop",
             "description":"TODOS DD",
@@ -30,7 +30,7 @@
             "config_mode":"ssh_proxy",
             "url_check_user":"https://interflashplussshpro.alphi.media/checkuser/glmod.php?user=",
             "config_openvpn":"",
-            "proxy_hostname":"",
+            "proxy_hostname":"pre.megassh.shop",
             "sort_order":1,
             "id":1,
             "proxy_port":80,
