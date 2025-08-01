@@ -583,7 +583,7 @@
             "category_id":"4",
             "v2ray_uuid":"",
             "primary_dns_server":"8.8.8.8",
-            "payload":"http/ \\n\\n/",
+            "payload":"HTTP/1.0 [lf]Host: vivo.com.br[lf][lf]",
             "status":"ACTIVE",
             "secondary_dns_server":"8.8.4.4",
             "sni":"",
